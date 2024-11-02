@@ -1,0 +1,14 @@
+/Users/alexanderek/RiderProjects/Labb3_Polymorphism1/Labb3_Polymorphism1/bin/Debug/net8.0/Labb3_Polymorphism1
+/Users/alexanderek/RiderProjects/Labb3_Polymorphism1/Labb3_Polymorphism1/bin/Debug/net8.0/Labb3_Polymorphism1.deps.json
+/Users/alexanderek/RiderProjects/Labb3_Polymorphism1/Labb3_Polymorphism1/bin/Debug/net8.0/Labb3_Polymorphism1.runtimeconfig.json
+/Users/alexanderek/RiderProjects/Labb3_Polymorphism1/Labb3_Polymorphism1/bin/Debug/net8.0/Labb3_Polymorphism1.dll
+/Users/alexanderek/RiderProjects/Labb3_Polymorphism1/Labb3_Polymorphism1/bin/Debug/net8.0/Labb3_Polymorphism1.pdb
+/Users/alexanderek/RiderProjects/Labb3_Polymorphism1/Labb3_Polymorphism1/obj/Debug/net8.0/Labb3_Polymorphism1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexanderek/RiderProjects/Labb3_Polymorphism1/Labb3_Polymorphism1/obj/Debug/net8.0/Labb3_Polymorphism1.AssemblyInfoInputs.cache
+/Users/alexanderek/RiderProjects/Labb3_Polymorphism1/Labb3_Polymorphism1/obj/Debug/net8.0/Labb3_Polymorphism1.AssemblyInfo.cs
+/Users/alexanderek/RiderProjects/Labb3_Polymorphism1/Labb3_Polymorphism1/obj/Debug/net8.0/Labb3_Polymorphism1.csproj.CoreCompileInputs.cache
+/Users/alexanderek/RiderProjects/Labb3_Polymorphism1/Labb3_Polymorphism1/obj/Debug/net8.0/Labb3_Polymorphism1.dll
+/Users/alexanderek/RiderProjects/Labb3_Polymorphism1/Labb3_Polymorphism1/obj/Debug/net8.0/refint/Labb3_Polymorphism1.dll
+/Users/alexanderek/RiderProjects/Labb3_Polymorphism1/Labb3_Polymorphism1/obj/Debug/net8.0/Labb3_Polymorphism1.pdb
+/Users/alexanderek/RiderProjects/Labb3_Polymorphism1/Labb3_Polymorphism1/obj/Debug/net8.0/Labb3_Polymorphism1.genruntimeconfig.cache
+/Users/alexanderek/RiderProjects/Labb3_Polymorphism1/Labb3_Polymorphism1/obj/Debug/net8.0/ref/Labb3_Polymorphism1.dll
