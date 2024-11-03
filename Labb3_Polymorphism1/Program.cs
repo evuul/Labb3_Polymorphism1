@@ -1,4 +1,4 @@
-﻿namespace Labb3_Polymorphism;
+﻿namespace Labb3_Polymorphism1;
 
 class Program
 {

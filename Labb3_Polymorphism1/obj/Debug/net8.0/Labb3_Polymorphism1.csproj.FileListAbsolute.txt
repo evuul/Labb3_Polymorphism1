@@ -12,3 +12,4 @@
 /Users/alexanderek/RiderProjects/Labb3_Polymorphism1/Labb3_Polymorphism1/obj/Debug/net8.0/Labb3_Polymorphism1.pdb
 /Users/alexanderek/RiderProjects/Labb3_Polymorphism1/Labb3_Polymorphism1/obj/Debug/net8.0/Labb3_Polymorphism1.genruntimeconfig.cache
 /Users/alexanderek/RiderProjects/Labb3_Polymorphism1/Labb3_Polymorphism1/obj/Debug/net8.0/ref/Labb3_Polymorphism1.dll
+/Users/alexanderek/RiderProjects/Labb3_Polymorphism1/Labb3_Polymorphism1/obj/Debug/net8.0/Labb3_Polymorphism1.sourcelink.json

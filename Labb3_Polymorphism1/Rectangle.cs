@@ -1,18 +1,18 @@
-namespace Labb3_Polymorphism;
+namespace Labb3_Polymorphism1;
 
 public class Rectangle : Geometry
 {
-    public double height { get; set; }
-    public double width { get; set; }
+    public double Height { get; set; }
+    public double Width { get; set; }
     
     public Rectangle(double height, double width)
     {
-        this.height = height;
-        this.width = width;
+        Height = height;
+        Width = width;
     }
     // override av area för att beräkna arena av en rektangel
     public override double Area()
     {
-        return height * width;
+        return Height * Width;
     }
 }
