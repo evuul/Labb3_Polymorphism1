@@ -16,7 +16,7 @@ class Program
         foreach (var geometry in myGeometry)
         {
             // använder inbyggda metoden GetType().Name för att få ut namnet på klassen
-            Console.WriteLine($"Arean av {geometry.GetType().Name} är: {geometry.Area()}");
+            Console.WriteLine($"Arean av {geometry.GetType().Name} är: {geometry.Area()} cm");
         }
     }
 }
