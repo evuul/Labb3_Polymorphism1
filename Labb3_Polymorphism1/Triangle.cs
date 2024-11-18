@@ -5,7 +5,7 @@ public class Triangle : Geometry
     public double Base { get; set; }
     public double Height { get; set; }
     
-    public Triangle(double @base, double height)  // @base för att inte krocka med nyckelordet base
+    public Triangle() 
     {
         Base = 2; // fasta värden
         Height = 4; // fasta värden

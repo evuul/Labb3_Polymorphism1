@@ -4,7 +4,7 @@ public class Square : Geometry
 {
     public double Side { get; set; }
     
-    public Square(double sideLength)
+    public Square()
     {
         Side = 8; // Fast värde
     }

@@ -5,7 +5,7 @@ public class Rectangle : Geometry
     public double Height { get; set; }
     public double Base { get; set; }
     
-    public Rectangle(double height, double width)
+    public Rectangle()
     {
         Height = 4; // fasta värden
         Base = 9; // fasta värden

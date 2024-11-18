@@ -4,7 +4,7 @@ public class Circle : Geometry
 {
     public double Radius { get; set; }
 
-    public Circle(double radius)
+    public Circle()
     {
         Radius = 4; // Fast värde
     }
