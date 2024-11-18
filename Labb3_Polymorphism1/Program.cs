@@ -5,18 +5,18 @@ class Program
     static void Main(string[] args)
     {
         // skapar upp objekten för cirkel, kvadrat och rektangel
-        Geometry cicle = new Circle(5);
+        Geometry circle = new Circle(5);
         Geometry square = new Square(5);
         Geometry rectangle = new Rectangle(5, 10);
+        Geometry triangle = new Triangle(5, 10);
 
         // lägger till mina objekt i en lista för att kunna loopa igenom varje objekt
-        List<Geometry> myGeometry = new List<Geometry> { cicle, square, rectangle };
+        var myGeometry = new List<Geometry> { circle, square, rectangle, triangle };
 
-        // loopar igenom min lista och skriver ut arean för varje objekt
+        // loopar igenom min lista och skriver ut presentation av varje objekt med hjälp av ToString()
         foreach (var geometry in myGeometry)
         {
-            // använder inbyggda metoden GetType().Name för att få ut namnet på klassen
-            Console.WriteLine($"Arean av {geometry.GetType().Name} är: {geometry.Area()} cm");
+            Console.WriteLine(geometry.ToString());
         }
     }
 }
